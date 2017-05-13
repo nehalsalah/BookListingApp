@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Book Listing</string>
+
+    <!-- Text to display in the list when there are no bookListings [CHAR LIMIT=NONE] -->
+    <string name="no_data">No bookListings found. you should write the kind of books you are searching about before click in the search button </string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection. check your internet connection and try again</string>
+
+    <string name="authorsName">authors name</string>
+    <string name="search_about">search here about books</string>
+    <string name="search">search</string>
+</resources>
